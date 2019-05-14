@@ -1,0 +1,39 @@
+.active-list-group-item {
+    color: unset !important;
+    background-color: unset !important;
+    border-color: unset !important;
+    position: relative !important;
+}
+.active-list-group-item::before {
+    content: '';
+    width: 10px;
+    position: absolute;
+    top: 0px;
+    left: 0px;
+    bottom: 0px;
+
+    color: #fff;
+    background-color: rgb(220, 53, 69)!important;
+    border-color: rgb(220, 53, 69)!important;
+}
+
+.list-group-flush .list-group-item {
+    border-right: 0;
+    border-left: 0;
+    border-radius: 0;
+    border-bottom: 0;
+    border-top: 0;
+    margin-bottom: 2px;
+}
+
+input[type=text].active.focus,
+input[type=text].active:focus,
+input[type=text].focus,
+input[type=text].focus:active,
+input[type=text]:active:focus,
+input[type=text]:focus {
+    outline: 0 !important;
+    outline-offset: 0 !important;
+    -webkit-box-shadow: none !important;
+    box-shadow: none !important;
+}

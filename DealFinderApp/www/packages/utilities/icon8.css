@@ -1,0 +1,1563 @@
+.dashboard-icon {
+    background-image: url(../icons/dashboard_30px.png);
+}
+
+.combo-chart-icon {
+    background-image: url(../icons/combo_chart_25px.png);
+}
+
+.settings-icon {
+    background-image: url(../icons/settings_25px.png);
+}
+
+.settings-1-icon {
+    background-image: url(../icons/settings_1_25px.png);
+}
+
+.logout-1-icon {
+    background-image: url(../icons/logout_1_25px.png);
+}
+
+.sales-icon {
+    background-image: url(../icons/sale_25px.png);
+}
+
+.shop-icon {
+    background-image: url(../icons/shop_25px.png);
+}
+
+.bank-icon {
+    background-image: url(../icons/bank_building_25px.png);
+}
+
+.cash-transaction-icon {
+    background-image: url(../icons/cash_transaction_25px.png);
+}
+
+.keypad-icon {
+    background-image: url(../icons/keypad_25px.png);
+}
+
+.pin-pad-icon {
+    background-image: url(../icons/pin_pad_30px.png);
+}
+
+.pin-pad-white-icon {
+    background-image: url(../icons/pin_pad_white_30px.png);
+}
+
+.plan-icon {
+    background-image: url(../icons/plan_25px.png);
+}
+
+.subscription-icon {
+    background-image: url(../icons/subscription_25px.png);
+}
+
+.logout-icon {
+    background-image: url(../icons/logout_25px.png);
+}
+
+.home-icon {
+    background-image: url(../icons/home_25px.png);
+}
+
+.wireless-icon {
+    background-image: url(../icons/wi-fi_25px.png);
+}
+
+.lab-items-icon {
+    background-image: url(../icons/lab_items_25px.png);
+}
+
+.test-tub-icon {
+    background-image: url(../icons/test_tub_25px.png);
+}
+
+.science-application-icon {
+    background-image: url(../icons/science_application_25px.png);
+}
+
+.security-lock-icon {
+    background-image: url(../icons/security_lock_25px.png);
+}
+
+.password-icon {
+    background-image: url(../icons/password_25px.png);
+}
+
+.transaction-icon {
+    background-image: url(../icons/transaction_30px.png);
+}
+
+.people-icon {
+    background-image: url(../icons/people_25px.png);
+}
+
+.people-16-icon {
+    background-image: url(../icons/people_16px.png);
+}
+
+.people-white-icon {
+    background-image: url(../icons/people_white_25px.png);
+}
+
+.people-white-16-icon {
+    background-image: url(../icons/people_white_16px.png);
+}
+
+.renew-icon {
+    background-image: url(../icons/transaction_25px.png);
+}
+
+.protect-icon {
+    background-image: url(../icons/protect_25px.png);
+}
+
+.key-icon {
+    background-image: url(../icons/key_25px.png);
+}
+
+.lock-icon {
+    background-image: url(../icons/lock_25px.png);
+}
+
+.protect-16-icon {
+    background-image: url(../icons/protect_16px.png);
+}
+
+.access-icon {
+    background-image: url(../icons/access_25px.png);
+}
+
+.bullet-camera-icon {
+    background-image: url(../icons/bullet_camera_25px.png);
+}
+
+.private-icon {
+    background-image: url(../icons/private_25px.png);
+}
+
+.shield-icon {
+    background-image: url(../icons/shield_25px.png);
+}
+
+.sell-icon {
+    background-image: url(../icons/sell_25px.png);
+}
+
+.shopping-basket-icon {
+    background-image: url(../icons/shopping_basket_25px.png);
+}
+
+.users-icon {
+    background-image: url(../icons/group_25px.png);
+}
+
+.male-user-icon {
+    background-image: url(../icons/male_user_25px.png);
+}
+
+.male-user-1-icon {
+    background-image: url(../icons/male_user_1_25px.png);
+}
+
+.help-icon {
+    background-image: url(../icons/help_25px.png);
+}
+
+.help-1-icon {
+    background-image: url(../icons/help_1_25px.png);
+}
+
+.reports-icon {
+    background-image: url(../icons/reports_25px.png);
+}
+
+.products-icon {
+    background-image: url(../icons/products_25px.png);
+}
+
+.product-catgory-icon {
+    background-image: url(../icons/product_category_25px.png);
+}
+
+.orders-icon {
+    background-image: url(../icons/orders_25px.png);
+}
+
+.pos-terminal-icon {
+    background-image: url(../icons/pos_terminal_25px.png);
+}
+
+.notification-icon {
+    background-image: url(../icons/appointment_reminders_filled_25px.png);
+    outline: none;
+}
+
+.notification-white-icon {
+    background-image: url(../icons/appointment_reminders_filled_white_25px.png);
+    outline: none;
+}
+
+.notification-white-1-icon {
+    background-image: url(../icons/appointment_reminders_filled_white_25px.png);
+}
+
+.notification-1-icon {
+    background-image: url(../icons/alerts_1_25px.png);
+}
+
+.notification-2-icon {
+    background-image: url(../icons/alerts_25px.png);
+}
+
+.notification-white-2-icon {
+    background-image: url(../icons/alerts_white_25px.png);
+}
+
+.search-icon {
+    background-image: url(../icons/search_20px.png);
+    background-repeat: no-repeat;
+    background-position: center;
+}
+
+.search-gray-icon {
+    background-image: url(../icons/search_gray_25px.png);
+}
+
+.search-gray-filled-icon {
+    background-image: url(../icons/search_gray_filled_25px.png);
+}
+
+.messenger-white-1-icon {
+    background-image: url(../icons/sms_white_25px.png);
+}
+
+.messenger-white-2-icon {
+    background-image: url(../icons/lol_white_2_25px.png);
+}
+
+.add-icon {
+    background-image: url(../icons/plus_20px.png);
+}
+
+[aria-selected=true] .add-icon {
+    outline: none;
+    /*background-image: url(../icons/plus_white_20px.png);*/
+}
+
+.add-content-icon {
+    background-image: url(../icons/add_content_filled_25px.png);
+}
+
+.edit-icon {
+    background-image: url(../icons/edit_25px.png);
+}
+
+[aria-selected=true] .edit-icon {
+    background-image: url(../icons/edit_white_25px.png);
+}
+
+.edit-filled-icon {
+    background-image: url(../icons/edit_filled_25px.png);
+}
+
+.browse-icon {
+    background-image: url(../icons/pencil_tip_filled_25px.png);
+}
+
+[aria-selected=true] .browse-icon {
+    background-image: url(../icons/pencil_tip_filled_white_25px.png);
+}
+
+.delete-icon {
+    background-image: url(../icons/delete_25px.png);
+}
+
+[aria-selected=true] .delete-icon {
+    background-image: url(../icons/delete_white_25px.png);
+}
+
+.delete-16-icon {
+    background-image: url(../icons/delete_16px.png);
+}
+
+[aria-selected=true] .delete-16-icon {
+    background-image: url(../icons/delete_white_16px.png);
+}
+
+.error-icon {
+    background-image: url(../icons/error_25px.png);
+}
+
+.reload-icon {
+    background-image: url(../icons/reload_25px.png);
+}
+
+.publish-icon {
+    background-image: url(../icons/publish_25px.png);
+}
+
+[aria-selected=true] .publish-icon {
+    background-image: url(../icons/publish_white_25px.png);
+}
+
+.unpublish-icon {
+    background-image: url(../icons/unpublish_25px.png);
+}
+
+[aria-selected=true] .unpublish-icon {
+    background-image: url(../icons/unpublish_white_25px.png);
+}
+
+.published-icon {
+    background-image: url(../icons/published_25px.png);
+}
+
+[aria-selected=true] .published-icon {
+    background-image: url(../icons/published_white_25px.png);
+}
+
+.unpublished-icon {
+    background-image: url(../icons/unpublished_25px.png);
+}
+
+[aria-selected=true] .unpublished-icon {
+    background-image: url(../icons/unpublished_white_25px.png);
+}
+
+.move-up-icon {
+    background-image: url(../icons/up2_25px.png);
+}
+
+.move-up-filled-icon {
+    background-image: url(../icons/up2_filled_25px.png);
+}
+
+[aria-selected=true] .move-up-icon {
+    outline: none;
+    /*background-image: url(../icons/up2_filled_white_25px.png);*/
+}
+
+.move-down-icon {
+    background-image: url(../icons/down2_25px.png);
+}
+
+.move-down-filled-icon {
+    background-image: url(../icons/down2_filled_25px.png);
+}
+
+[aria-selected=true] .move-down-icon {
+    outline: none;
+    /*background-image: url(../icons/down2_filled_white_25px.png);*/
+}
+
+.previous-icon {
+    background-image: url(../icons/back_25px.png);
+}
+
+.next-icon {
+    background-image: url(../icons/forward_25px.png);
+}
+
+.move-left-icon {
+    background-image: url(../icons/back_arrow_25px.png);
+}
+
+.move-right-icon {
+    background-image: url(../icons/next_arrow_25px.png);
+}
+
+.move-left-1-icon {
+    background-image: url(../icons/back_arrow_1_25px.png);
+}
+
+.move-right-1-icon {
+    background-image: url(../icons/next_arrow_1_25px.png);
+}
+
+.move-left-2-icon {
+    background-image: url(../icons/back_arrow_2_25px.png);
+}
+
+.move-right-2-icon {
+    background-image: url(../icons/next_arrow_2_25px.png);
+}
+
+.back-icon {
+    background-image: url(../icons/back_1_30px.png);
+}
+
+.back-white-icon {
+    background-image: url(../icons/back_white_30px.png);
+}
+
+.back-16-icon {
+    background-image: url(../icons/back_1_16px.png);
+}
+
+.back-12-icon {
+    background-image: url(../icons/back_1_12px.png);
+}
+
+.back-to-icon {
+    background-image: url(../icons/back_to_25px.png);
+}
+
+.next-page-icon {
+    background-image: url(../icons/next_page_25px.png);
+}
+
+.back-to-1-icon {
+    background-image: url(../icons/back_to_1_25px.png);
+}
+
+.next-page-1-icon {
+    background-image: url(../icons/next_page_1_25px.png);
+}
+
+.back-to-16-icon {
+    background-image: url(../icons/back_to_16px.png);
+}
+
+.next-page-16-icon {
+    background-image: url(../icons/next_page_16px.png);
+}
+
+[aria-selected=true] .back-to-16-icon {
+    background-image: url(../icons/back_to_white_16px.png);
+}
+
+[aria-selected=true] .next-page-16-icon {
+    background-image: url(../icons/next_page_white_16px.png);
+}
+
+.back-to-16-1-icon {
+    background-image: url(../icons/back_to_1_16px.png);
+}
+
+.next-page-16-1-icon {
+    background-image: url(../icons/next_page_1_16px.png);
+}
+
+[aria-selected=true] .back-to-16-1-icon {
+    background-image: url(../icons/back_to_white_1_16px.png);
+}
+
+[aria-selected=true] .next-page-16-1-icon {
+    background-image: url(../icons/next_page_white_1_16px.png);
+}
+
+.back-to-16-2-icon {
+    background-image: url(../icons/back_to_2_16px.png);
+}
+
+.next-page-16-2-icon {
+    background-image: url(../icons/next_page_2_16px.png);
+}
+
+[aria-selected=true] .back-to-16-2-icon {
+    background-image: url(../icons/back_to_white_2_16px.png);
+}
+
+[aria-selected=true] .next-page-16-2-icon {
+    background-image: url(../icons/next_page_white_2_16px.png);
+}
+
+.services-icon {
+    background-image: url(../icons/services_25px.png);
+}
+
+.services-100-1-icon {
+    background-image: url(../icons/services_1_100px.png);
+}
+
+[aria-selected=true] .services-100-1-icon {
+    background-image: url(../icons/services_white_1_100px.png);
+}
+
+.invoice-1-icon {
+    background-image: url(../icons/bill_1_25px.png);
+}
+
+.invoice-100-1-icon {
+    background-image: url(../icons/invoice_1_100px.png);
+}
+
+[aria-selected=true] .invoice-100-1-icon {
+    background-image: url(../icons/invoice_white_2_100px.png);
+}
+
+.ticket-1-icon {
+    background-image: url(../icons/ticket_1_25px.png);
+}
+
+.ticket-100-1-icon {
+    background-image: url(../icons/ticket_1_100px.png);
+}
+
+[aria-selected=true] .ticket-100-1-icon {
+    background-image: url(../icons/ticket_white_1_100px.png);
+}
+
+.print-icon {
+    background-image: url(../icons/print_25px.png);
+}
+
+.print-white-filled-icon {
+    background-image: url(../icons/print_white_filled_25px.png);
+}
+
+.download-icon {
+    background-image: url(../icons/download_25px.png);
+}
+
+.download-white-icon {
+    background-image: url(../icons/download_white_25px.png);
+}
+
+.download-white-filled-icon {
+    background-image: url(../icons/download_white_filled_25px.png);
+}
+
+.manufacturer-icon {
+    background-image: url(../icons/factory_25px.png);
+}
+
+.supplier-icon {
+    background-image: url(../icons/supplier_25px.png);
+}
+
+.delivery-icon {
+    background-image: url(../icons/delivery_25px.png);
+}
+
+.vendors-icon {
+    background-image: url(../icons/conference_call_25px.png);
+}
+
+.customers-icon {
+    background-image: url(../icons/conference_call_25px.png);
+}
+
+.members-icon {
+    background-image: url(../icons/conference_call_25px.png);
+}
+
+.admin-users-icon {
+    background-image: url(../icons/new_contact_25px.png);
+}
+
+.invoice-icon {
+    background-image: url(../icons/invoice_25px.png);
+}
+
+.promo-icon {
+    background-image: url(../icons/advertising_25px.png);
+}
+
+.billing-icon {
+    background-image: url(../icons/billing_25px.png);
+}
+
+.bill-icon {
+    background-image: url(../icons/bill_25px.png);
+}
+
+.bill-filled-icon {
+    background-image: url(../icons/bill_filled_25px.png);
+}
+
+.bill-white-icon {
+    background-image: url(../icons/bill_white_25px.png);
+}
+
+.bill-white-filled-icon {
+    background-image: url(../icons/bill_white_filled_25px.png);
+}
+
+.template-icon {
+    background-image: url(../icons/web_design_25px.png);
+}
+
+.tickets-icon {
+    background-image: url(../icons/ticket_25px.png);
+}
+
+.open-ticket-1-icon {
+    background-image: url(../icons/new_ticket_1_25px.png);
+}
+
+.reply-ticket-icon {
+    background-image: url(../icons/reply_arrow_25px.png);
+}
+
+.reply-ticket-1-icon {
+    background-image: url(../icons/reply_arrow_1_25px.png);
+}
+
+.close-ticket-1-icon {
+    background-image: url(../icons/close_sign_1_25px.png);
+}
+
+.attention-1-icon {
+    background-image: url(../icons/attention_1_25px.png);
+}
+
+[aria-selected=true] .attention-1-icon {
+    background-image: url(../icons/attention_white_1_25px.png);
+}
+
+[aria-selected=true] .attention-2-icon {
+    background-image: url(../icons/attention_white_2_25px.png);
+}
+
+.department-icon {
+    background-image: url(../icons/org_unit_25px.png);
+}
+
+.department-white-70-icon {
+    background-image: url(../icons/org_unit_white_70px.png);
+}
+
+.role-privilege-icon {
+    background-image: url(../icons/admin_settings_male_25px.png);
+}
+
+.location-marker-icon {
+    background-image: url(../icons/geo_fence_25px.png);
+}
+
+.areas-of-covered-icon {
+    background-image: url(../icons/map_marker_25px.png);
+}
+
+.audit-log-icon {
+    background-image: url(../icons/audit_25px.png);
+}
+
+.view-details {
+    background-image: url(../icons/view_details_25px.png);
+}
+
+.sales-report-icon {
+    background-image: url(../icons/overview_pages_2_25px.png);
+}
+
+.export-icon {
+    background-image: url(../icons/export_25px.png);
+}
+
+.more-options-white-icon {
+    background-image: url(../icons/more_filled_white_25px.png);
+}
+
+.more-options-icon {
+    background-image: url(../icons/more_25px.png);
+}
+
+.more-options-vertical-icon {
+    background-image: url(../icons/menu_vertical_25px.png);
+}
+
+.more-options-1-icon {
+    background-image: url(../icons/more_1_25px.png);
+}
+
+.archive-icon {
+    background-image: url(../icons/filing_cabinet_25px.png);
+}
+
+.return-icon {
+    background-image: url(../icons/right_filled_25px.png);
+}
+
+.hamburger-white-icon {
+    background-image: url(../icons/hamburger_filled_white_25px.png);
+}
+
+.hamburger-icon {
+    background-image: url(../icons/hamburger_30px.png);
+}
+
+.inventory-modulet-icon {
+    background-image: url(../icons/inventory_modulet_25px.png);
+}
+
+.studio-modulet-icon {
+    background-image: url(../icons/site_modulet_25px.png);
+}
+
+.mail-modulet-icon {
+    background-image: url(../icons/read_message_25px.png);
+}
+
+.mail-inbox-icon {
+    background-image: url(../icons/mail_inbox_25px.png);
+}
+
+.mail-draft-icon {
+    background-image: url(../icons/mail_draft_25px.png);
+}
+
+.send-mail-icon {
+    background-image: url(../icons/send_mail_25px.png);
+}
+
+.send-mail-white-icon {
+    background-image: url(../icons/send_mail_white_25px.png);
+}
+
+.send-mail-white-filled-icon {
+    background-image: url(../icons/send_mail_white_filled_25px.png);
+}
+
+.mail-sent-icon {
+    background-image: url(../icons/mail_sent_25px.png);
+}
+
+.mail-trash-icon {
+    background-image: url(../icons/mail_trash_25px.png);
+}
+
+.mail-contact-book-icon {
+    background-image: url(../icons/address_book_25px.png);
+}
+
+.email-icon {
+    background-image: url(../icons/email_25px.png);
+}
+
+.contact-icon {
+    background-image: url(../icons/contact_25px.png);
+}
+
+.address-book-icon {
+    background-image: url(../icons/address_book_25px.png);
+}
+
+.address-book-icon {
+    background-image: url(../icons/address_book_2_25px.png);
+}
+
+.report-sample-icon {
+    background-image: url(../icons/graph_report_25px.png);
+}
+
+.export-pdf-icon {
+    background-image: url(../icons/export_pdf_25px.png);
+}
+
+.export-excel-icon {
+    background-image: url(../icons/export_excel_25px.png);
+}
+
+.print-icon {
+    background-image: url(../icons/print_25px.png);
+}
+
+.school-modulet-icon {
+    background-image: url(../icons/school_25px.png);
+}
+
+.invoices-modulet-icon {
+    background-image: url(../icons/bill_25px.png);
+}
+
+.wallet-modulet-icon {
+    background-image: url(../icons/wallet_25px.png);
+}
+
+.store-modulet-icon {
+    background-image: url(../icons/shop_25px.png);
+}
+
+.content-icon {
+    background-image: url(../icons/content_25px.png);
+}
+
+.content_detail-icon {
+    background-image: url(../icons/content_detail_25px.png);
+}
+
+.content-category-icon {
+    background-image: url(../icons/content_category_25px.png);
+}
+
+.choose-category-icon {
+    background-image: url(../icons/choose_category_25px.png);
+}
+
+.content-published-icon {
+    background-image: url(../icons/content_published_25px.png);
+}
+
+.school-icon {
+    background-image: url(../icons/school_25px.png);
+}
+
+.school-category-icon {
+    background-image: url(../icons/school_category_25px.png);
+}
+
+.maintenance-white-icon {
+    background-image: url(../icons/maintenance_filled_white_25px.png);
+}
+
+.maintenance-icon {
+    background-image: url(../icons/maintenance_25px.png);
+}
+
+.message-white-icon {
+    background-image: url(../icons/message_filled_white_25px.png);
+}
+
+.message-icon {
+    background-image: url(../icons/message_25px.png);
+}
+
+.read-message-2-icon {
+    background-image: url(../icons/discussion_forum_1_25px.png);
+}
+
+.compose-icon {
+    background-image: url(../icons/compose_mail_25px.png);
+}
+
+.compose-mail-icon {
+    background-image: url(../icons/compose_mail_25px.png);
+}
+
+.reply-mail-icon {
+    background-image: url(../icons/reply_arrow_25px.png);
+}
+
+.reply-all-mail-icon {
+    background-image: url(../icons/reply_all_arrow_25px.png);
+}
+
+.forward-mail-icon {
+    background-image: url(../icons/forward_arrow_25px.png);
+}
+
+.mark-mail-unread-icon {
+    background-image: url(../icons/unread_message_25px.png);
+}
+
+.mark-mail-read-icon {
+    background-image: url(../icons/read_message_25px.png);
+}
+
+.set-flag-icon {
+    background-image: url(../icons/flag_25px.png);
+}
+
+.clear-flag-icon {
+    background-image: url(../icons/unflag_25px.png);
+}
+
+.move-to-folder-icon {
+    background-image: url(../icons/folder_25px.png);
+}
+
+.make-payment-icon {
+    background-image: url(../icons/naira_25px.png);
+}
+
+.paper-money-payment-icon {
+    background-image: url(../icons/paper_money_25px.png);
+}
+
+.card-payment-icon {
+    background-image: url(../icons/credit_card_25px.png);
+}
+
+.paypal-payment-icon {
+    background-image: url(../icons/paypal_25px.png);
+}
+
+.naira-payment-icon {
+    background-image: url(../icons/naira_25px.png);
+}
+
+.payment-history-icon {
+    background-image: url(../icons/payment_history_25px.png);
+}
+
+.history-20-icon {
+    background-image: url(../icons/history_20px.png);
+}
+
+.messenger-icon {
+    background-image: url(../icons/sms_25px.png);
+}
+
+.chat-selected-icon {
+    background-image: url(../icons/sms_25px.png);
+}
+
+
+.gallery-icon {
+    background-image: url(../icons/stack_of_photos_25px.png);
+}
+
+.folder-icon {
+    background-image: url(../icons/folder_25px.png);
+}
+
+.folder-20-icon {
+    background-image: url(../icons/folder_25px.png);
+}
+
+.mail-folder-icon {
+    background-image: url(../icons/folder_25px.png);
+}
+
+.template-icon {
+    background-image: url(../icons/template_25px.png);
+}
+
+.theme-icon {
+    background-image: url(../icons/paint_brush_25px.png);
+}
+
+.pages-icon {
+    background-image: url(../icons/pages_25px.png);
+}
+
+.forms-icon {
+    background-image: url(../icons/form_25px.png);
+}
+
+.globe-icon {
+    background-image: url(../icons/globe_25px.png);
+}
+
+[aria-selected=true] .globe-icon {
+    background-image: url(../icons/globe_white_25px.png);
+}
+
+.archive-icon {
+    background-image: url(../icons/archive_25px.png);
+}
+
+.add-to-archive-icon {
+    background-image: url(../icons/add_to_archive_25px.png);
+}
+
+.delete-archive-icon {
+    background-image: url(../icons/delete_archive_25px.png);
+}
+
+.trash-icon {
+    background-image: url(../icons/waste_25px.png);
+}
+
+.trash-1-icon {
+    background-image: url(../icons/waste_1_25px.png);
+}
+
+.calendar-icon {
+    background-image: url(../icons/calendar_25px.png);
+}
+
+.star-icon {
+    background-image: url(../icons/star_25px.png);
+}
+
+[aria-selected=true] .star-icon {
+    background-image: url(../icons/star_white_25px.png);
+}
+
+.star-white-icon {
+    background-image: url(../icons/star_white_25px.png);
+}
+
+.landscape-white-icon-100-icon {
+    background-image: url(../icons/landscape_filled_white_100px.png);
+}
+
+.share-icon {
+    background-image: url(../icons/share_25px.png);
+}
+
+.share-white-icon {
+    background-image: url(../icons/share_white_25px.png);
+}
+
+[aria-selected=true].share-icon {
+    background-image: url(../icons/share_filled_25px.png);
+}
+
+.share-white-filled-icon {
+    background-image: url(../icons/share_white_filled_25px.png);
+}
+
+.thumb-up-icon {
+    background-image: url(../icons/thumbs_up_25px.png);
+}
+
+[aria-selected=true].thumb-up-icon {
+    background-image: url(../icons/thumbs_filled_up_25px.png);
+}
+
+.add-image-icon {
+    background-image: url(../icons/add_image_25px.png);
+}
+
+/* .okay-icon {
+    background-image: url(../icons/checkmark_filled_25px.png);
+} */
+
+.cancel-icon {
+    background-image: url(../icons/cancel_25px.png);
+}
+
+.cancel-white-icon {
+    background-image: url(../icons/cancel_white_25px.png);
+}
+
+.cancel-white-filled-icon {
+    background-image: url(../icons/cancel_white_filled_25px.png);
+}
+
+.close-white-filled-icon {
+    background-image: url(../icons/close_white_filled_25px.png);
+}
+
+.save-icon {
+    background-image: url(../icons/save_25px.png);
+}
+
+.okay-icon {
+    background-image: url(../icons/ok_25px.png);
+}
+
+.okay-white-icon {
+    background-image: url(../icons/ok_white_25px.png);
+}
+
+.okay-white-filled-icon {
+    background-image: url(../icons/ok_white_filled_25px.png);
+}
+
+.restore-icon {
+    background-image: url(../icons/restore_25px.png);
+}
+
+.view-icon {
+    background-image: url(../icons/view_25px.png);
+}
+
+.media-icon {
+    background-image: url(../icons/media_25px.png);
+}
+
+.add-media-icon {
+    background-image: url(../icons/add_media_25px.png);
+}
+
+.zoom-in-icon {
+    background-image: url(../icons/zoom_in_25px.png);
+}
+
+.zoom-out-icon {
+    background-image: url(../icons/zoom_out_25px.png);
+}
+
+.rotate-left-icon {
+    background-image: url(../icons/rotate_left_25px.png);
+}
+
+.rotate-right-icon {
+    background-image: url(../icons/rotate_right_25px.png);
+}
+
+.image-enhance-icon {
+    background-image: url(../icons/particles_25px.png);
+}
+
+.tag-icon {
+    background-image: url(../icons/price_tag_25px.png);
+}
+
+.pin-icon {
+    background-image: url(../icons/pin_25px.png);
+}
+
+.unpin-icon {
+    background-image: url(../icons/unpin_25px.png);
+}
+
+.expand-icon {
+    background-image: url(../icons/expand_25px.png);
+}
+
+.more-icon {
+    background-image: url(../icons/more_25px.png);
+}
+
+.menu-icon {
+    background-image: url(../icons/menu_25px.png);
+}
+
+.like-icon {
+    background-image: url(../icons/like_25px.png);
+}
+
+.visible-icon {
+    background-image: url(../icons/visible_25px.png);
+}
+
+.confirmed-icon {
+    background-image: url(../icons/confirmed_25px.png);
+}
+
+.store-icon {
+    background-image: url(../icons/shopping_bag_25px.png);
+}
+
+.shopping-cart-1-icon {
+    background-image: url(../icons/shopping_cart_1_25px.png);
+}
+
+.shopping-cart-icon {
+    background-image: url(../icons/shopping_cart_25px.png);
+}
+
+.shopping-cart-white-icon {
+    background-image: url(../icons/shopping_cart_white_25px.png);
+}
+
+.add-to-shopping-cart-icon {
+    background-image: url(../icons/add_shopping_cart_25px.png);
+}
+
+.add-to-shopping-cart-1-icon {
+    background-image: url(../icons/add_shopping_cart_1_25px.png);
+}
+
+[aria-selected=true] .add-to-shopping-cart-icon {
+    background-image: url(../icons/add_shopping_cart_filled_white_25px.png);
+}
+
+.clear-shopping-cart-1-icon {
+    background-image: url(../icons/clear_shopping_cart_1_25px.png);
+}
+
+.checkout-icon {
+    background-image: url(../icons/checkout_25px.png);
+}
+
+.avatar-white-25-icon {
+    background-image: url(../icons/gender_neutral_user_filled_white_25px.png);
+}
+
+.avatar-white-50-icon {
+    background-image: url(../icons/gender_neutral_user_filled_white_50px.png);
+}
+
+.avatar-white-75-icon {
+    background-image: url(../icons/gender_neutral_user_filled_white_75px.png);
+}
+
+.avatar-white-100-icon {
+    background-image: url(../icons/avatar_white_100px.png);
+}
+
+.avatar-white-120-icon {
+    background-image: url(../icons/avatar_white_120px.png);
+}
+
+.company-white-100-icon {
+    background-image: url(../icons/company_white_100px.png);
+}
+
+.company-white-120-icon {
+    background-image: url(../icons/company_white_120px.png);
+}
+
+.camera-25-icon {
+    background-image: url(../icons/screenshot_25px.png);
+}
+
+.camera-icon {
+    background-image: url(../icons/camera_25px.png);
+}
+
+.circle-icon {
+    background-image: url(../icons/full_moon_25px.png);
+}
+
+.deactivate-icon {
+    background-image: url(../icons/deactivate_25px.png);
+}
+
+.activated-icon {
+    background-image: url(../icons/approval_25px.png);
+}
+
+.verified-icon {
+    background-image: url(../icons/verified_account_25px.png);
+}
+
+.verified-white-filled-icon {
+    background-image: url(../icons/verified_white_filled_25px.png);
+}
+
+.user-avatar-white-70-icon {
+    background-image: url(../icons/user_avatar_white_70px.png);
+}
+
+.add-user-male-icon {
+    background-image: url(../icons/add_user_male_25px.png);
+}
+
+.blog-icon {
+    background-image: url(../icons/blog_25px.png);
+}
+
+.ritual-icon {
+    background-image: url(../icons/ritual_25px.png);
+}
+
+.circled-play-icon {
+    background-image: url(../icons/circled_play_25px.png);
+}
+
+[aria-selected=true] .circled-play-icon {
+    background-image: url(../icons/circled_play_white_25px.png);
+}
+
+.play-icon {
+    background-image: url(../icons/play_25px.png);
+}
+
+.play-white-icon {
+    background-image: url(../icons/play_white_25px.png);
+}
+
+.pause-icon {
+    background-image: url(../icons/pause_25px.png);
+}
+
+.pause-white-icon {
+    background-image: url(../icons/pause_white_25px.png);
+}
+
+.volume-high-icon {
+    background-image: url(../icons/volume_high_25px.png);
+}
+
+.volume-high-white-icon {
+    background-image: url(../icons/volume_high_white_25px.png);
+}
+
+.volume-medium-white-icon {
+    background-image: url(../icons/volume_medium_white_25px.png);
+}
+
+.volume-low-white-icon {
+    background-image: url(../icons/volume_low_white_25px.png);
+}
+
+.volume-none-white-icon {
+    background-image: url(../icons/volume_none_white_25px.png);
+}
+
+.volume-mute-white-icon {
+    background-image: url(../icons/volume_mute_white_25px.png);
+}
+
+.package-context-icon {
+    background-image: url(../icons/control_package_25px.png);
+}
+
+.skip-15sec-back-white-icon {
+    background-image: url(../icons/skip_15sec_back_white_25px.png);
+}
+
+.skip-15sec-forward-white-icon {
+    background-image: url(../icons/skip_15sec_forward_white_25px.png);
+}
+
+.fast-forward-white-icon {
+    background-image: url(../icons/fast_forward_white_25px.png);
+}
+
+.rewind-white-icon {
+    background-image: url(../icons/rewind_white_25px.png);
+}
+
+.full-screen-white-icon {
+    background-image: url(../icons/full_screen_white_25px.png);
+}
+
+.normal-screen-white-icon {
+    background-image: url(../icons/normal_screen_white_25px.png);
+}
+
+.upload-icon {
+    background-image: url(../icons/upload_25px.png);
+}
+
+.upload-white-icon {
+    background-image: url(../icons/upload_white_25px.png);
+}
+
+.video-icon {
+    background-image: url(../icons/video_25px.png);
+}
+
+[aria-selected=true] .video-icon {
+    background-image: url(../icons/video_white_25px.png);
+}
+
+.banner-icon {
+    background-image: url(../icons/banner_25px.png);
+}
+
+[aria-selected=true] .banner-icon {
+    background-image: url(../icons/banner_white_25px.png);
+}
+
+.image-icon {
+    background-image: url(../icons/image_25px.png);
+}
+
+[aria-selected=true] .image-icon {
+    background-image: url(../icons/image_white_25px.png);
+}
+
+.library-icon {
+    background-image: url(../icons/library_25px.png);
+}
+
+.webpage-icon {
+    background-image: url(../icons/webpage_25px.png);
+}
+
+.webpage-white-icon {
+    background-image: url(../icons/webpage_white_25px.png);
+}
+
+.sent-icon {
+    background-image: url(../icons/sent_25px.png);
+}
+
+[aria-selected=true] .sent-icon {
+    background-image: url(../icons/sent_white_25px.png);
+}
+
+
+
+
+
+/*
+ ** WYSIWYG Formatting
+ */
+
+.bold-icon {
+    background-image: url(../icons/bold_25px.png);
+}
+
+.italic-icon {
+    background-image: url(../icons/italic_25px.png);
+}
+
+.underline-icon {
+    background-image: url(../icons/underline_25px.png);
+}
+
+.undo-icon {
+    background-image: url(../icons/undo_25px.png);
+}
+
+.redo-icon {
+    background-image: url(../icons/redo_25px.png);
+}
+
+.align-left-icon {
+    background-image: url(../icons/align_left_25px.png);
+}
+
+.align-center-icon {
+    background-image: url(../icons/align_center_25px.png);
+}
+
+.align-right-icon {
+    background-image: url(../icons/align_right_25px.png);
+}
+
+.align-justify-icon {
+    background-image: url(../icons/align_justify_25px.png);
+}
+
+.outdent-icon {
+    background-image: url(../icons/outdent_25px.png);
+}
+
+.indent-icon {
+    background-image: url(../icons/indent_25px.png);
+}
+
+.quote-icon {
+    background-image: url(../icons/quotes_25px.png);
+}
+
+.paragraph-icon {
+    background-image: url(../icons/paragraph_25px.png);
+}
+
+.strikethrough-icon {
+    background-image: url(../icons/strikethrough_25px.png);
+}
+
+.bulleted-list-icon {
+    background-image: url(../icons/bulleted_list_25px.png);
+}
+
+.numbered-list-icon {
+    background-image: url(../icons/numbered_list_25px.png);
+}
+
+.font-size-icon {
+    background-image: url(../icons/lowercase_25px.png);
+}
+
+.text-color-icon {
+    background-image: url(../icons/text_color_25px.png);
+}
+
+.text-highlight-icon {
+    background-image: url(../icons/bg_color_25px.png);
+}
+
+.erase-icon {
+    background-image: url(../icons/erase_25px.png);
+}
+
+.create-link-icon {
+    background-image: url(../icons/create_link_25px.png);
+}
+
+.remove-link-icon {
+    background-image: url(../icons/remove_link_25px.png);
+}
+
+.attach-icon {
+    background-image: url(../icons/attach_25px.png);
+}
+
+.emoticon-icon {
+    background-image: url(../icons/lol_25px.png);
+}
+
+.insert-table-icon {
+    background-image: url(../icons/insert_table_25px.png);
+}
+
+.insert-image-icon {
+    background-image: url(../icons/insert_image_25px.png);
+}
+
+.insert-video-icon {
+    background-image: url(../icons/film_25px.png);
+}
+
+.subscript-icon {
+    background-image: url(../icons/subscript_25px.png);
+}
+
+.superscript-icon {
+    background-image: url(../icons/superscript_25px.png);
+}
+
+.blockquote-icon {
+    background-image: url(../icons/blockquote_25px.png);
+}
+
+.controls-wysiwyg-editor-toolbar .menu .menulist .menulist-item:hover .grid .grid-ico .align-left {
+    background-image: url(../icons/align_left_filled_white_25px.png);
+}
+
+.controls-wysiwyg-editor-toolbar .menu .menulist .menulist-item:hover .grid .grid-ico .align-center {
+    background-image: url(../icons/align_center_filled_white_25px.png);
+}
+
+.controls-wysiwyg-editor-toolbar .menu .menulist .menulist-item:hover .grid .grid-ico .align-right {
+    background-image: url(../icons/align_right_filled_white_25px.png);
+}
+
+.controls-wysiwyg-editor-toolbar .menu .menulist .menulist-item:hover .grid .grid-ico .align-justify {
+    background-image: url(../icons/align_justify_filled_white_25px.png);
+}
+
+
+/*
+ * Hover
+ */
+
+.hover:hover .add {
+    background-image: url(../icons/delete_sign_filled_white_25px.png);
+}
+
+.hover:hover .cancel {
+    background-image: url(../icons/delete_sign_filled_white_25px.png);
+}
+
+
+/*
+ * User View
+ */
+
+.appointment {
+    background-image: url(../icons/appointment_reminders_25px.png);
+}
+
+
+/*
+ * Logo
+ */
+
+.shopping-basket-logo {
+    background-image: url(../icons/shopping_basket_logo.png);
+}
+.clear-symbol-30px {
+    background-image: url(../icons/clear_symbol_30px.png);
+    background-repeat: no-repeat;
+    background-position: center;
+}
+
+.merchant-service-icon {
+    background-image: url(../icons/merchant_service_25px.png);
+    background-repeat: no-repeat;
+    background-position: center;
+}
+
+
+.wishlist-icon {
+    background-image: url(../icons/wish_list_30px.png);
+    background-repeat: no-repeat;
+    background-position: center;
+}
+
+.wishlist-white-icon {
+    background-image: url(../icons/wish_list_white_30px.png);
+    background-repeat: no-repeat;
+    background-position: center;
+}
+
+
+.info-icon {
+    background-image: url(../icons/info_30px.png);
+    background-repeat: no-repeat;
+    background-position: center;
+}
+
+.info-white-icon {
+    background-image: url(../icons/info_white_30px.png);
+    background-repeat: no-repeat;
+    background-position: center;
+}

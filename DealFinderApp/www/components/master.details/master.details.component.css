@@ -1,0 +1,247 @@
+.master-component {
+    outline: none;
+}
+
+.master-component .master {
+    outline: none;
+    position: fixed;
+    /* top: 0px; */
+    left: 0px;
+    bottom: 0px;
+    right: 0px;
+    z-index: 1000;
+    height: 60px;
+    /* overflow: hidden;
+    overflow-x: auto;
+    overflow-y: hidden; */
+
+    transition: width .2s ease-in, opacity .2s ease-in;
+    -webkit-transition: width .2s ease-in, opacity .2s ease-in;
+}
+
+.master-component .master.slide-out {
+    width: 300px !important;
+    opacity: 1 !important;
+
+    transition: width .2s linear, opacity .2s ease-out;
+    -webkit-transition: width .2s linear, opacity .2s ease-out;
+}
+
+.master-component .master .list-group {
+    white-space: nowrap;
+    display: flex;
+    flex-direction: unset;
+}
+
+.master-component .master .list-group .list-group-item {
+    white-space: nowrap;
+    position: relative;
+    float: left;
+    padding: .90rem 1.25rem;
+    margin-bottom: unset;
+    background-color: unset;
+    border: none;
+    height: 60px;
+}
+.master-component .master .list-group .active-list-group-item::before {
+    content: '';
+    width: unset;
+    height: 5px;
+    position: absolute;
+    top: 0px;
+    left: 0px;
+    right: 0px;
+    color: #fff;
+    background-color: rgb(220, 53, 69) !important;
+    border-color: rgb(220, 53, 69) !important;
+}
+
+
+.master-component .details-callout-view {
+    height: 0;
+
+    overflow: visible;
+    transition: height .1s linear;
+    -webkit-transition: height .1s linear;
+    -moz-transition: height .1s linear;
+}
+
+.master-component .details-callout-view[show-callout] {
+    height: 80%;
+
+    overflow: visible;
+    transition: height .1s linear;
+    -webkit-transition: height .1s linear;
+    -moz-transition: height .1s linear;
+}
+
+/*Hamburger design*/
+
+
+ .hamburger-Button-Style{
+    font-size:30px;
+    cursor:pointer;
+    color:white;
+  }
+  
+   .slidable-panel {
+    z-index: 10;
+    width: 0;
+    position: fixed;
+    top: 0;
+    right: 0;
+    bottom: 0px;
+    overflow-x: hidden;
+    transition: 0.5s;
+    padding-top: 60px;
+    color: white;
+    background-color:rgb(255, 64, 129);
+  }
+  
+  .show-slidable-panel {
+    z-index: 10;
+    width: 250px;
+    transition: 0.5s;
+  }
+  
+  .slidable-panel a {
+    color: white;
+    font-size: 20px;
+    padding: 30px 10px 10px 32px;
+    text-decoration: none;
+    display: block;
+    cursor: pointer;
+    transition: 0.3s;
+  }
+  
+   .slidable-panel a:hover {
+    text-decoration: none;
+    display: block;
+    cursor: pointer;
+    color: rgb(220, 53, 69);
+  }
+  
+  .slidable-panel .active {
+    background-color: #4CAF50;
+    color: white;
+  }
+  
+ .headerMessage {
+    position: absolute;
+    margin-left: 50px;
+    margin-top: 8px;
+    color: white;
+  }
+  
+  .slideMessage {
+    position: relative;
+      left: 40px;
+      top: 0px;
+      color: White;
+  }
+
+
+
+
+/*
+.menu-container {
+	position: absolute;
+	width:5rem;
+	height: 5rem;
+	overflow: hidden;
+	left:0;
+	top: 0;
+	transition-delay: .3s;
+}
+
+.menu {
+	position: relative;
+	width: 10rem;
+	height: 10rem;
+	background-color: #1c7cd6;
+	border-radius: 100%;
+	transform: translate(-50%, -50%);
+	transition: all .3s;
+}
+
+#hamburger {
+	display: none;
+}
+
+label {
+	position: absolute;
+	width: 10rem;
+	height: 10rem;
+	border-radius: 100%;
+	transform: translate(-50%, -50%);
+	z-index: 2;
+	cursor: pointer;
+	tap-highlight-color:transparent;
+}
+label::before {
+  content: "";
+  position: absolute;
+  top: 65%;
+		left: 65%;
+  width: 1em;
+  height: 0.15em;
+  background: white;
+  box-shadow: 0 0.25em 0 0 white, 0 0.5em 0 0 white;
+  transform: scale(2);
+}
+
+
+#hamburger:checked ~ .menu-container {
+	width: 30vw;
+	height: 100vh;
+	transition-delay: 0s;
+}
+
+#hamburger:checked ~ .menu-container .menu {
+	width: 250vh;
+	height: 250vh;
+	transition: all .3s;
+}
+
+.menu-container .links {
+	position: absolute;
+	left: 15vw;
+	top: 50vh;
+	z-index: 3;
+	transform: translate(-50%, -50%);
+    text-align: center;
+}
+.links a {
+		display: block;
+		color: white;
+		font-size: 2rem;
+		text-decoration: none;
+		margin: 3rem;
+	}
+
+
+/*.content {
+	padding: 3rem 10rem;
+	transition: all .2s;
+	transition-delay: .1s;
+	
+	h1 {
+		font-size: 2rem;
+		color: #212529;
+	}
+	
+	h1:not(.header) {
+		margin-top: 4rem;
+	}
+	
+	p {
+		margin-top: 2rem;
+		color: #495057;
+	}
+}
+
+#hamburger:checked ~ .content {
+	padding-left: 35vw;
+	transition: all .2s;
+	transition-delay: 0s;
+}*/
